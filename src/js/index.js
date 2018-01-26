@@ -79,16 +79,16 @@ $(document).ready(function() {
           $(this).css('opacity','1')
         });
         $('.header-links a').each(function(){
-          $(this).css('color','white')
+          $(this).css('color','#e9ece5')
         });
         $('.header-links').css("background-color","transparent");
       }
 
       else if(index!=1){
         $('.header-links a').each(function(){
-          $(this).css('color','black')
+          $(this).css('color','#e9ece5')
         });
-        $('.header-links').css('background-color', 'white');
+        $('.header-links').css('background-color', '#222');
       }
 
       //using index
