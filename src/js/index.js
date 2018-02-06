@@ -61,6 +61,7 @@ $(document).ready(function() {
 
   $('#fullpage').fullpage({
     scrollBar: true,
+    scrollOverflow: true,
     responsiveWidth: 400,
     navigation: true,
     navigationTooltips: ['home', 'about', 'portfolio', 'contact', 'connect'],
