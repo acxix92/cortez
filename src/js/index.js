@@ -124,6 +124,9 @@ $(document).ready(function() {
     $.fn.fullpage.moveTo(4);
   });
 
+  //scrollOverflow
+  $.fn.fullpage.reBuild();
+
   // smooth scrolling
   $(function() {
     $('a[href*=#]:not([href=#])').click(function() {
