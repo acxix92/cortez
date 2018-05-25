@@ -9,6 +9,7 @@
   "author": "acxix92 <acxix92@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@ibm/plex": "^1.0.2",
     "@ibm/type": "^0.5.3",
     "browser-sync": "^2.23.5",
     "fullpage.js": "^2.9.5"
