@@ -1,15 +1,17 @@
-/* 
+
   body {
     font-family: IBM Plex Mono,helvetica,sans-serif;
-    font-weight: 500;
+    font-weight: 400;
     font-style: normal;
     background-color: #222;
 
-  } */
-  body {
-    font-family: 'Press Start 2P', cursive;
   }
-  
+
+  .aboutme {
+    background: url("https://media.giphy.com/media/3ohs4wolj5Cu0kLuSI/giphy.gif") no-repeat;
+    background-size: cover;
+  }
+
   /* LOADER */
   #loader {
     position: absolute;
