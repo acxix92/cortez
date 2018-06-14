@@ -8,7 +8,7 @@
   }
 
   .aboutme {
-    background: url("https://media.giphy.com/media/3ohs4wolj5Cu0kLuSI/giphy.gif") no-repeat;
+    background: linear-gradient(rgba(179, 194, 191, 0.269),rgba(83, 152, 135, 0.5)), url("https://media.giphy.com/media/3ohs4wolj5Cu0kLuSI/giphy.gif") no-repeat;
     background-size: cover;
   }
 
@@ -33,7 +33,7 @@
   #loader.active {
     opacity: 1;
   }
-  
+
   #initial-loader {
     position: fixed;
     top: 0;
