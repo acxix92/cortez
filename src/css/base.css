@@ -276,7 +276,7 @@ main {
 
 .slide__img::after {
     content: '';
-    background: rgba(208, 90, 88, 0.62);
+    background: rgba(250, 53, 53, 0.242);
     position: absolute;
     top: 0;
     left: 0;
@@ -430,7 +430,7 @@ main {
 
 .preview__img::after {
     content: '';
-    background: rgba(208, 90, 88, 0.62);
+    background: rgba(250, 53, 53, 0.242);
     position: absolute;
     top: 0;
     left: 0;
