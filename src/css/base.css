@@ -32,16 +32,8 @@ hr {
 }
 
 mark {
-    background: #ff0;
+    background: rgb(240, 90, 87);
     color: #000;
-}
-
-code,
-kbd,
-pre,
-samp {
-    font-family: monospace, serif;
-    font-size: 1em;
 }
 
 pre {
@@ -173,13 +165,13 @@ html {
 
 body {
     --color-text: #fff;
-    --color-bg: #8490d8;
+    --color-bg: #1e1e1e;
     --color-link: #fff;
     --color-link-hover: #ffeb3b;
     --color-reveal: var(--color-bg);
     --color-title: #fff;
     --color-nav: #fff;
-    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    /* font-family: Futura, "Trebuchet MS", Arial, sans-serif; */
     min-height: 100vh;
     color: #57585c;
     color: var(--color-text);
