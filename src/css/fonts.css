@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Raisonne';
+    src: url('/fonts/Raisonne-DemiBold.eot');
+    src: url('/fonts/Raisonne-DemiBold.eot?#iefix') format('embedded-opentype'), url('/fonts/Raisonne-DemiBold.woff2') format('woff2'), url('/fonts/Raisonne-DemiBold.woff') format('woff'), url('/fonts/Raisonne-DemiBold.ttf') format('truetype'), url('/fonts/Raisonne-DemiBold.svg#Raisonne-DemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
