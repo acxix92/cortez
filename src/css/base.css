@@ -167,7 +167,7 @@ body {
     --color-text: #fff;
     --color-bg: #1e1e1e;
     --color-link: #fff;
-    --color-link-hover: #ffeb3b;
+    --color-link-hover: #facecd;
     --color-reveal: var(--color-bg);
     --color-title: #fff;
     --color-nav: #fff;
@@ -224,22 +224,6 @@ main {
 
 .content {
     text-align: center;
-}
-
-/* Top Navigation Style */
-
-.codrops-links {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    white-space: nowrap;
-    font-size: 0.85rem;
-}
-
-.codrops-icon {
-    display: inline-block;
-    padding: 0.25em;
 }
 
 .slideshow {
