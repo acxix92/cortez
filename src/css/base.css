@@ -497,3 +497,10 @@ main {
         display: none;
     }
 }
+
+@media screen and (min-width: 30em) {
+    .svg__icon {
+        width: 1rem;
+        height: 1rem;
+    }
+}
