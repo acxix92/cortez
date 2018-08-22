@@ -476,6 +476,11 @@ main {
     margin: 0;
 }
 
+.title-dek {
+    color: #6c974d;
+
+}
+
 @media screen and (min-width: 53em) {
     body {
         padding: 0;
@@ -491,7 +496,7 @@ main {
         width: 380px;
     }
     .preview__title {
-        font-size: 2.5rem;
+        font-size: 1.5rem;
     }
     .preview__content {
         padding: 0 5rem;
