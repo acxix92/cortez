@@ -310,6 +310,7 @@ main {
     position: absolute;
     top: .10rem;
     opacity: 0;
+    padding-top: 5rem;
 }
 
 .slide__title {
@@ -482,7 +483,29 @@ main {
     color: #6c974d;
 }
 
+.title-dek-org {
+    color: #df7e1b;
+}
 
+.title-dek-lightblue {
+    color: #6f8ea4;
+}
+
+.title-dek-oak {
+    color: #802f07;
+}
+
+.title-dek-turq {
+    color: #5fae9f;
+}
+
+.title-dek-yw {
+    color: #e9cb6b;
+}
+
+.title-dek-lav {
+    color: #a686a9;
+}
 
 @media screen and (min-width: 53em) {
     body {
