@@ -507,6 +507,10 @@ main {
     color: #a686a9;
 }
 
+.title-dek-lightoak {
+    color: #a17639;
+}
+
 @media screen and (min-width: 53em) {
     body {
         padding: 0;
