@@ -511,6 +511,10 @@ main {
     color: #a17639;
 }
 
+.title-bgbk {
+    background-color: #1e1e1e;
+}
+
 @media screen and (min-width: 53em) {
     body {
         padding: 0;
